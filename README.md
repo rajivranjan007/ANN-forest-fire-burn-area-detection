@@ -1,0 +1,1 @@
+# ANN-forest-fire-burn-area-detection
