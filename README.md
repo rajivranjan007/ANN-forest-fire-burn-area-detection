@@ -4,8 +4,7 @@ This GitHub project aims to predict the burned area of forest fires using Artifi
 The solution was implemented and tested in a Jupyter Notebook, achieving an accuracy of 98%.
 
 ## Dataset
-The dataset used for this project is the Forest Fires Data Set from the UCI Machine Learning Repository. 
-This dataset contains information about forest fires in the Montesinho natural park, Portugal. 
+The dataset used for this project is the ForestFires.csv This dataset contains information about forest fires in the Montesinho natural park, Portugal. 
 It includes 517 instances and 31 attributes, such as temperature, humidity, wind, and rain.
 ## visualisation 
 ![downloadforestfire](https://user-images.githubusercontent.com/114483775/232968968-06049007-fbad-46e1-9e23-14d58de43fa3.png)
